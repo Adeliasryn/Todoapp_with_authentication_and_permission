@@ -12,7 +12,7 @@ Dodis will help you to :
 ## Features that I built in Dodis:
 1. Create your first account
 2. Creating various tasks (up to X-number of tasks)
-3. Manage total of yur complete and incomplete tasks
+3. Manage total of your complete and incomplete tasks
 4. Classify your task into categories
 5. Modify your task (Premium member only)
 
@@ -35,6 +35,7 @@ To provide more service to users, I recommend 2 types of subscriptions and 1 sup
 2. python
 3. Bootstrap
 4. CSS/HTML
+5. sqlite database
 
 ## Contributing :
 I accept all contributions to the development of Dodis.
